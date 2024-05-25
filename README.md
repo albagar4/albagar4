@@ -10,7 +10,8 @@
 I'm a 42 Student since April 2023, hoping to finish her 
 <a href="https://profile.intra.42.fr/users/albagar4">
 Common Core
-</a> by the beginning of 2025!
+</a> 
+ by the beginning of 2025!
 </p>
 
 <h2>
