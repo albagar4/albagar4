@@ -9,3 +9,7 @@
 <p align='justify'>
 I'm a 42 Student since April 2023, hoping to finish her Common Core by the beginning of 2025!
 </p>
+
+<h2>
+<img src='https://pic.chinesefontdesign.com/uploads/2016/08/chinesefontdesign.com_2016-08-21_18-42-49.gif' width='40px' heigh='40px'/> Skills I'm working on
+</h2>
