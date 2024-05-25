@@ -3,7 +3,7 @@
 </h1>
 
 <h2>
-<img src='https://pic.chinesefontdesign.com/uploads/2016/08/chinesefontdesign.com_2016-08-21_18-42-46.gif' width='40px' heigh='40px'/> About me
+<img src='https://pic.chinesefontdesign.com/uploads/2016/08/chinesefontdesign.com_2016-08-21_18-42-46.gif' width='40px' heigh='40px'/>About me
 </h2>
 
 <p align='justify'>
